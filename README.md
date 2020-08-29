@@ -26,6 +26,13 @@ But, if pressed, how would you prove it?
 ![regression_southern_temp_vs_lat](https://user-images.githubusercontent.com/55970064/91622666-e1569680-e95d-11ea-9d9a-507c4e5fd3bd.png)
 
 
-2. 
+2. Based on this data, there is no strong relationship between Humidity vs. Latitude, and Wind Speed vs. Latitude, for both northern hemisphere and southern hemisphere. In other words, we could make the conclusion that humidity and wind speed do not differ in different latitudes. 
+
+![lat_vs_humi](https://user-images.githubusercontent.com/55970064/91627091-6c458a00-e97a-11ea-89ff-58733692f899.png)
+
+
+![lat_vs_wind](https://user-images.githubusercontent.com/55970064/91627098-7798b580-e97a-11ea-8e42-9476737896ba.png)
+
+
 3. 
 
