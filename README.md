@@ -34,5 +34,13 @@ But, if pressed, how would you prove it?
 ![lat_vs_wind](https://user-images.githubusercontent.com/55970064/91627098-7798b580-e97a-11ea-8e42-9476737896ba.png)
 
 
-3. 
+3. For cloudiness, altough there is no obvious trend on the overall relationship between cloudiness and latitude, there is a moderate positive relationship for cities from southern hemisphere with a regression equation of y = 0.42x + 52.92. This indicates that for each one unit increase in latitude, there is 0.42 unit increase in cloudiness for southern hemisphere cities. 
+
+![lat_vs_cloud](https://user-images.githubusercontent.com/55970064/91627663-78cbe180-e97e-11ea-969a-d9af17fc4ff9.png)
+
+
+![regression_southern_cloud_vs_lat](https://user-images.githubusercontent.com/55970064/91627675-88e3c100-e97e-11ea-994d-d5c87ac3cc5b.png)
+
+
+
 
