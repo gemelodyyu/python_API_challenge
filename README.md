@@ -49,3 +49,7 @@ But, if pressed, how would you prove it?
 <img width="995" alt="Humidity Heatmap" src="https://user-images.githubusercontent.com/55970064/91627713-cea08980-e97e-11ea-8c0e-eff1044d1681.png">
 
 
+* Narrow down the DataFrame to find an ideal weather condition. Find the first hotel for each city located within 5000 meters of the coordinates. And plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name, City**, and **Country**.
+
+<img width="993" alt="Hotel Map" src="https://user-images.githubusercontent.com/55970064/91627741-33f47a80-e97f-11ea-8e5b-1050a887bc4a.png">
+
