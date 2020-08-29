@@ -42,5 +42,10 @@ But, if pressed, how would you prove it?
 ![regression_southern_cloud_vs_lat](https://user-images.githubusercontent.com/55970064/91627675-88e3c100-e97e-11ea-994d-d5c87ac3cc5b.png)
 
 
+## Part II - VacationPy
+
+* Create a heat map that displays the humidity for every city from the Part I.
+
+<img width="995" alt="Humidity Heatmap" src="https://user-images.githubusercontent.com/55970064/91627713-cea08980-e97e-11ea-8c0e-eff1044d1681.png">
 
 
